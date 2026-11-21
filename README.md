@@ -1,2 +1,3 @@
-# mollytea-web
-茉莉学堂网页版静态站点
+# 茉莉学堂网页版
+
+静态网页版，部署到 GitHub Pages。
